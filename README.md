@@ -1,6 +1,21 @@
-# exercize_6_2
+# Vue Template
 
 ## Project setup
+
+### Install Vue Globally
+```
+npm install -g vue
+```
+
+### Install Vue CLI
+```
+npm install -g @vue/cli
+```
+
+### Create a new folder and unzip template
+
+
+### Re-install all node_modules
 ```
 npm install
 ```
